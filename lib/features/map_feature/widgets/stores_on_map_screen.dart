@@ -87,7 +87,7 @@ class StoresOnMapScreen extends StatelessWidget {
                             height: 14,
                           ),
                           Text(
-                            '93 Worth St, New York, NY 10013',
+                            'Jinnah Avenue, Blue Area, Islamabad, ICT 44000',
                             style: appTypography.caption,
                             overflow: TextOverflow.ellipsis,
                             maxLines: 1,

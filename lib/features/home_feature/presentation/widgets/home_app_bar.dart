@@ -35,7 +35,7 @@ class HomeAppBar extends StatelessWidget implements PreferredSizeWidget {
                     ),
                   ),
                   Text(
-                    'New York, AUS',
+                    'Islamabad, PAK',
                     style: typography.titleSmall.copyWith(color: colors.white),
                   ),
                 ],
