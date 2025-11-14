@@ -4,7 +4,7 @@ A complete Sweet Shop UI built with Flutter, perfect for learning Flutter UI dev
 
 ## Demo images
 
-![Demo](https://raw.githubusercontent.com/ales-dev-studio/SweetStore-App-UI/refs/heads/main/assets/demos/demo-1.png)
+![Demo](assets/demos/demo-1.png)
 ![Demo](https://raw.githubusercontent.com/ales-dev-studio/SweetStore-App-UI/refs/heads/main/assets/demos/demo-2.png)
 ![Demo](https://raw.githubusercontent.com/ales-dev-studio/SweetStore-App-UI/refs/heads/main/assets/demos/demo-3.png)
 ![Demo](https://raw.githubusercontent.com/ales-dev-studio/SweetStore-App-UI/refs/heads/main/assets/demos/demo-4.png)
